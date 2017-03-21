@@ -1,0 +1,20 @@
+{
+    "name": "talv/magento2-wysiwyg-fix",
+    "description": "",
+    "require": {
+        "php": ">=5.4",
+        "magento/module-cms": ">=101.0 <102.0"
+    },
+    "type": "magento2-module",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Talv\\WysiwygFix\\": ""
+        }
+    }
+}
