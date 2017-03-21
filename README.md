@@ -8,6 +8,6 @@ Related issue: https://github.com/magento/magento2/issues/6138
 ```
 composer config repositories.talv/magento2-wysiwyg-fix vcs https://github.com/talv/magento2-wysiwyg-fix/
 composer require talv/magento2-wysiwyg-fix
-bin/magento module:enable 
+bin/magento module:enable Talv_WysiwygFix
 bin/magento setup:upgrade --keep-generated
 ```
