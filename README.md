@@ -4,7 +4,7 @@ Fix for Magento 2.1 WYSIWYG embedding media with incorrect URLs - not transformi
 Related issue: https://github.com/magento/magento2/issues/6138
 
 > Magento finally fixed this bug in `2.1.8`. https://github.com/magento/magento2/pull/10131 \
-> Thus this package is absolete - unless you're using older version (such as `2.1.7` etc.)
+> Thus this package is obsolete - unless you're using older version (such as `2.1.7` etc.)
 
 ## Installation
 
